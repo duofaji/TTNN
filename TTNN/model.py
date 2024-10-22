@@ -1,13 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Aug 25 10:12:49 2023
 
-@author: fangwenji
 """
 import torch
 import torch.nn as nn
 import numpy as np
-import pandas as pd
 
 #%%data normalization
 def normal(x):

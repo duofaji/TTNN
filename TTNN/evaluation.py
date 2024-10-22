@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Aug 25 10:12:49 2023
-
-@author: fangwenji
 """
-import torch
+
 import numpy as np
 from tqdm import tqdm
 import pandas as pd
